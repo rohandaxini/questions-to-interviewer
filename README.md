@@ -4,7 +4,7 @@
 ## Introduction
 
 This is the list of questions that you should consider asking your interviewer and future company. When they ask **Do you have any questions for me**, take the opportunity to know what your 
-next 1+ years in this company or under this person might look like. This list is divided into [general](#general) and [technology specific](#technology-specific) questions along with tips and tricks.
+future in this company or under this person might look like. This list is divided into [general](#general-questions) and [technology specific](#technology-specific-questions) questions along with tips and tricks.
 
 ## Tips before asking these questions
 
@@ -16,9 +16,9 @@ next 1+ years in this company or under this person might look like. This list is
 
 ## Credits
 
-Many of the [general](#general) category questions in the list here are inspired from this [Twitter Thread](https://twitter.com/lilykonings/status/1484598087494496258). Thanks to [Lily Konings](https://twitter.com/lilykonings) for initiating the thread.
+Many of the [general](#general-questions) category questions in the list here are inspired from this [Twitter Thread](https://twitter.com/lilykonings/status/1484598087494496258). Thanks to [Lily Konings](https://twitter.com/lilykonings) for initiating the thread.
 
-## General
+## General Questions
 - May I know what all you and/or your company have done to support your employees during Covid Pandemic?
 - How do you measure success?
 - What actions/characteristics would make someone successful in said role?
@@ -45,7 +45,7 @@ Many of the [general](#general) category questions in the list here are inspired
 - How do you nurture psychological safety in your team?
 - When was the last time you supported a direct report's growth, even if it meant leaving your team or company?
 
-## Technology Specific
+## Technology Specific Questions
 - How do you ship things to production? i.e. what is your typical process for shipping to a live app?
 - When was the last time you faced a major production issue? How did you overcome it?
 - What is your sanity or smoke testing process before shipping things to production?
