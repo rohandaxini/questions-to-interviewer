@@ -1,4 +1,4 @@
-# Questions you should consider asking your Interviewer and future company
+# Questions you should consider asking your Interviewer and Future Company
 
 
 ## Introduction
