@@ -64,4 +64,4 @@ Example: In one of the cases, the 2nd person (who had more power in the org) ans
 
 ## Contributing
 
-We encourage you to contribute to this list. Please free to submit your PR for any additions or updates.
+I encourage you to contribute to this list of questions. Please free to submit your PR for any additions or updates. This will immensely help those looking for a change and are in between an interview process.
