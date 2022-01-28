@@ -18,7 +18,7 @@ future in this company or under this person might look like. This list is divide
 
 ## Credits
 
-Many of the [general](#general-questions) category questions in the list here are inspired and compiled from this [Twitter Thread](https://twitter.com/lilykonings/status/1484598087494496258). Thanks to [Lily Konings](https://twitter.com/lilykonings) for initiating the thread.
+Many of the [general](#general-questions) category questions in the list here are inspired and compiled from this [Twitter Thread](https://twitter.com/lilykonings/status/1484598087494496258). Thanks to [Lily Konings](https://twitter.com/lilykonings) for initiating the thread on Twitter.
 
 ## General Questions
 - May I know what all you and/or your company has done to support your employees during Covid Pandemic?
