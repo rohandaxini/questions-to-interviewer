@@ -46,6 +46,9 @@ Many of the [general](#general-questions) category questions in the list here ar
 - When was the last time you promoted someone on your team? How did it happen?
 - How do you nurture psychological safety in your team?
 - When was the last time you supported a direct report's growth, even if it meant leaving your team or company?
+- How do you protect your team from unrealistic deadlines?
+- How do you protect your team from burnout?
+- Describe your most recent 1:1.
 
 ## Technology Specific Questions
 - How do you ship things to production? i.e. what is your typical process for shipping to a live app?
