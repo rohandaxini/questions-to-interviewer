@@ -85,4 +85,4 @@ Any contributions you make to this effort are greatly appreciated.
 ## Contributors
 
 - [Samantha Lisk](https://github.com/smlisk0630)
-- [Niranjan Sarade] (https://github.com/NiranjanSarade)
+- [Niranjan Sarade](https://github.com/NiranjanSarade)
