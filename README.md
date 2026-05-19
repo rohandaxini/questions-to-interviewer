@@ -64,11 +64,11 @@ Many of the [general](#general-questions) category questions in the list here ar
 - What is the process of setting deadlines or timelines?
 - What is your bug escalation and reporting process?
 - How does the team manage production issues that happen outside normal business hours? (Thanks to [Sean McEvoy](https://www.linkedin.com/in/seanfmcevoy/) for this question.)
-- Do you have any knowledge sharing platform, especially community driven within different teams/company ? 
+- Do you have any knowledge sharing platform, especially community driven within different teams/company? 
 - Do you have a separate test automation team ? If yes, how do you make sure the test automation suite is up to date with 
-  ongoing functional releases to applications ?
-- For any new project, what is the process of deciding the technology stack ? Who all are involved in making the decision ?
-- Do you support open source contributions and technical conference participations for the employees ?
+  ongoing functional releases to applications?
+- For any new project, what is the process of deciding the technology stack? Who all are involved in making the decision?
+- Do you support open source contributions and technical conference participations for the employees?
 
 ## Few more Tips and Tricks
 
