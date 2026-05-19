@@ -49,11 +49,11 @@ Many of the [general](#general-questions) category questions in the list here ar
 - How do you protect your team from unrealistic deadlines?
 - How do you protect your team from burnout?
 - Describe your most recent 1:1.
-- How do you define a consistent performing employee ? 
-- What kind of career growth opportunities does the company offer to employees ? How often the career progression 
-  path is discussed and tracked proactively with the employee ?
-- Do you have any higher education support program for employees and if yes, what are its rules and regulations ?
-- Do you have any platform/forum where an employee can openly connect with top most Leadership of the company ?
+- How do you define a consistent performing employee? 
+- What kind of career growth opportunities does the company offer to employees? How often the career progression 
+  path is discussed and tracked proactively with the employee?
+- Do you have any higher education support program for employees and if yes, what are its rules and regulations?
+- Do you have any platform/forum where an employee can openly connect with top most Leadership of the company?
 
 ## Technology Specific Questions
 - How do you ship things to production? i.e. what is your typical process for shipping to a live app?
